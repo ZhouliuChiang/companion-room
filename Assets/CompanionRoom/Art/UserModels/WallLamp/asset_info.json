@@ -1,0 +1,29 @@
+{
+  "key": "WallLamp",
+  "label": "壁燈",
+  "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\壁燈.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/WallLamp/WallLamp.fbx",
+  "size": [
+    0.6541138291358948,
+    0.6084595918655396,
+    1.0
+  ],
+  "targetWidth": 0.24,
+  "meshes": 1,
+  "triangles": 964816,
+  "materials": [
+    {
+      "name": "tripo_mat_97831b9f",
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8999999761581421,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/WallLamp/Textures/WallLamp_Texture_00.jpg"
+      }
+    }
+  ]
+}

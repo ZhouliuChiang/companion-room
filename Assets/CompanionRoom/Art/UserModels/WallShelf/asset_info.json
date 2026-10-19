@@ -1,0 +1,29 @@
+{
+  "key": "WallShelf",
+  "label": "牆架",
+  "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\牆架.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/WallShelf/WallShelf.fbx",
+  "size": [
+    1.0000001192092896,
+    0.3469544053077698,
+    0.2279510796070099
+  ],
+  "targetWidth": 0.8,
+  "meshes": 1,
+  "triangles": 954658,
+  "materials": [
+    {
+      "name": "tripo_mat_ea97ccff",
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8999999761581421,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/WallShelf/Textures/WallShelf_Texture_00.jpg"
+      }
+    }
+  ]
+}

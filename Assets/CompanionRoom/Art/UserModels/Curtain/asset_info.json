@@ -1,0 +1,29 @@
+{
+  "key": "Curtain",
+  "label": "窗簾",
+  "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\窗簾.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/Curtain/Curtain.fbx",
+  "size": [
+    1.0000001192092896,
+    0.3153381943702698,
+    0.8489990234375
+  ],
+  "targetWidth": 1.65,
+  "meshes": 1,
+  "triangles": 970974,
+  "materials": [
+    {
+      "name": "tripo_mat_2eca38ea",
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8999999761581421,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/Curtain/Textures/Curtain_Texture_00.jpg"
+      }
+    }
+  ]
+}

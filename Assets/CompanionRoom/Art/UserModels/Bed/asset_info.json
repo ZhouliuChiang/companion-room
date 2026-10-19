@@ -1,0 +1,29 @@
+{
+  "key": "Bed",
+  "label": "床",
+  "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\床.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/Bed/Bed.fbx",
+  "size": [
+    0.8549805879592896,
+    1.000000238418579,
+    0.68743896484375
+  ],
+  "targetWidth": 1.6,
+  "meshes": 1,
+  "triangles": 946306,
+  "materials": [
+    {
+      "name": "tripo_mat_5cbccc9e",
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8999999761581421,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/Bed/Textures/Bed_Texture_00.jpg"
+      }
+    }
+  ]
+}

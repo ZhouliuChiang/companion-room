@@ -1,0 +1,29 @@
+{
+  "key": "TarotCards",
+  "label": "塔羅牌",
+  "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\塔羅牌.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/TarotCards/TarotCards.fbx",
+  "size": [
+    1.0000001192092896,
+    0.5478515625,
+    0.1901398003101349
+  ],
+  "targetWidth": 0.3,
+  "meshes": 1,
+  "triangles": 956582,
+  "materials": [
+    {
+      "name": "tripo_mat_72356ce3",
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8999999761581421,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/TarotCards/Textures/TarotCards_Texture_00.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "key": "GamingDesk",
+  "label": "粉兔桌",
+  "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\粉兔桌.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/GamingDesk/GamingDesk.fbx",
+  "size": [
+    0.99951171875,
+    0.5102540254592896,
+    0.87158203125
+  ],
+  "targetWidth": 1.65,
+  "meshes": 1,
+  "triangles": 9880,
+  "materials": [
+    {
+      "name": "tripo_mat_f71f36d8",
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8999999761581421,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/GamingDesk/Textures/GamingDesk_Texture_00.jpg"
+      }
+    }
+  ]
+}

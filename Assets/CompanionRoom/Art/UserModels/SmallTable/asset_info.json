@@ -1,0 +1,29 @@
+{
+  "key": "SmallTable",
+  "label": "小木桌",
+  "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\小木桌.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/SmallTable/SmallTable.fbx",
+  "size": [
+    1.0000001192092896,
+    0.9970093965530396,
+    0.3728333115577698
+  ],
+  "targetWidth": 0.85,
+  "meshes": 1,
+  "triangles": 992326,
+  "materials": [
+    {
+      "name": "tripo_mat_84e7173f",
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8999999761581421,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/SmallTable/Textures/SmallTable_Texture_00.jpg"
+      }
+    }
+  ]
+}

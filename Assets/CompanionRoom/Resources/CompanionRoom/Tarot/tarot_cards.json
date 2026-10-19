@@ -1,0 +1,1332 @@
+{
+  "version": "pastel-full-deck-1",
+  "reversedChance": 0.35,
+  "cards": [
+    {
+      "id": "fool",
+      "number": 0,
+      "numeral": "0",
+      "name": "愚者",
+      "english": "The Fool",
+      "upright": {
+        "keywords": "新的開始、自由、冒險",
+        "meaning": "愚者背著小小的行囊，正要踏出第一步。它代表新的開始，還有不被過去綁住的自由。",
+        "advice": "不用把每一步都想清楚，先出發，路會慢慢變清楚的。"
+      },
+      "reversed": {
+        "keywords": "衝動、猶豫、不切實際",
+        "meaning": "逆位的愚者，可能是太急著往前，也可能是站在原地不敢動。",
+        "advice": "先停一下，看看腳下，再決定要不要跳。"
+      }
+    },
+    {
+      "id": "magician",
+      "number": 1,
+      "numeral": "I",
+      "name": "魔術師",
+      "english": "The Magician",
+      "upright": {
+        "keywords": "創造、行動、資源",
+        "meaning": "魔術師的桌上擺滿了工具。你需要的東西，其實已經在手邊了。",
+        "advice": "相信自己的能力，把想法變成行動吧。"
+      },
+      "reversed": {
+        "keywords": "分心、虛張聲勢、能力未發揮",
+        "meaning": "逆位的魔術師，像是把工具散了一桌，卻還沒開始動手。",
+        "advice": "挑一件最重要的事，先專心把它完成。"
+      }
+    },
+    {
+      "id": "high_priestess",
+      "number": 2,
+      "numeral": "II",
+      "name": "女祭司",
+      "english": "The High Priestess",
+      "upright": {
+        "keywords": "直覺、靜默、內在智慧",
+        "meaning": "女祭司安靜地坐在簾幕前。答案不在外面，而在你心裡比較安靜的地方。",
+        "advice": "給自己一點獨處的時間，聽聽直覺怎麼說。"
+      },
+      "reversed": {
+        "keywords": "忽視直覺、秘密、心不定",
+        "meaning": "逆位的女祭司，表示心裡有點吵，聽不清自己的聲音。",
+        "advice": "少聽一點別人的意見，回到自己的感受。"
+      }
+    },
+    {
+      "id": "empress",
+      "number": 3,
+      "numeral": "III",
+      "name": "皇后",
+      "english": "The Empress",
+      "upright": {
+        "keywords": "豐盛、滋養、溫柔",
+        "meaning": "皇后坐在花和麥穗之間，代表豐盛，還有被好好照顧的感覺。",
+        "advice": "對自己溫柔一點，你值得被好好對待。"
+      },
+      "reversed": {
+        "keywords": "過度付出、匱乏感、停滯",
+        "meaning": "逆位的皇后，可能是給了別人太多，忘了留一點給自己。",
+        "advice": "先把自己照顧好，才有力氣照顧別人。"
+      }
+    },
+    {
+      "id": "emperor",
+      "number": 4,
+      "numeral": "IV",
+      "name": "皇帝",
+      "english": "The Emperor",
+      "upright": {
+        "keywords": "穩定、秩序、責任",
+        "meaning": "皇帝坐在石頭王座上，代表規律、穩定，還有撐起一切的力量。",
+        "advice": "訂一個清楚的計畫，一步一步把基礎打穩。"
+      },
+      "reversed": {
+        "keywords": "固執、控制、失序",
+        "meaning": "逆位的皇帝，可能是抓得太緊，也可能是生活少了一點秩序。",
+        "advice": "放鬆一點規矩，但別放掉自己的原則。"
+      }
+    },
+    {
+      "id": "hierophant",
+      "number": 5,
+      "numeral": "V",
+      "name": "教皇",
+      "english": "The Hierophant",
+      "upright": {
+        "keywords": "傳統、學習、指引",
+        "meaning": "教皇代表傳承下來的智慧，也可能是一位值得請教的人。",
+        "advice": "遇到不確定的事，可以找信任的長輩或前輩聊聊。"
+      },
+      "reversed": {
+        "keywords": "打破常規、懷疑、不受拘束",
+        "meaning": "逆位的教皇，表示舊的方法可能不再適合你了。",
+        "advice": "勇敢走自己的路，但別忘了先想清楚為什麼。"
+      }
+    },
+    {
+      "id": "lovers",
+      "number": 6,
+      "numeral": "VI",
+      "name": "戀人",
+      "english": "The Lovers",
+      "upright": {
+        "keywords": "愛、連結、選擇",
+        "meaning": "戀人牌講的是心與心的連結，也是一個需要用真心去做的選擇。",
+        "advice": "選你真正在乎的，而不是看起來比較好的。"
+      },
+      "reversed": {
+        "keywords": "失衡、猶豫、價值衝突",
+        "meaning": "逆位的戀人，可能是關係裡有點不平衡，或是心裡還拿不定主意。",
+        "advice": "誠實地和對方，也和自己，好好談一次。"
+      }
+    },
+    {
+      "id": "chariot",
+      "number": 7,
+      "numeral": "VII",
+      "name": "戰車",
+      "english": "The Chariot",
+      "upright": {
+        "keywords": "前進、意志、勝利",
+        "meaning": "戰車由兩頭方向不同的獸拉著，能往前走，靠的是駕車人的意志。",
+        "advice": "目標確定了，就專心往前，不要被雜音拉走。"
+      },
+      "reversed": {
+        "keywords": "失控、方向不明、受阻",
+        "meaning": "逆位的戰車，像是韁繩鬆了，力氣用了卻沒有往同一個方向。",
+        "advice": "先停下來確認方向，再重新出發。"
+      }
+    },
+    {
+      "id": "strength",
+      "number": 8,
+      "numeral": "VIII",
+      "name": "力量",
+      "english": "Strength",
+      "upright": {
+        "keywords": "勇氣、溫柔的力量、耐心",
+        "meaning": "力量牌上的人輕輕撫著獅子。真正的力量，是溫柔而堅定的。",
+        "advice": "用耐心面對困難，你比自己想的還要堅強。"
+      },
+      "reversed": {
+        "keywords": "自我懷疑、焦躁、失去信心",
+        "meaning": "逆位的力量，表示你最近可能對自己有點沒信心。",
+        "advice": "允許自己脆弱一下，休息夠了，力氣會回來的。"
+      }
+    },
+    {
+      "id": "hermit",
+      "number": 9,
+      "numeral": "IX",
+      "name": "隱者",
+      "english": "The Hermit",
+      "upright": {
+        "keywords": "內省、獨處、尋找答案",
+        "meaning": "隱者提著一盞燈，獨自走在山上。有些答案，要一個人慢慢找。",
+        "advice": "給自己安靜的時間，答案會在燈光照到的地方出現。"
+      },
+      "reversed": {
+        "keywords": "孤立、逃避、封閉",
+        "meaning": "逆位的隱者，可能是把自己關得太久了。",
+        "advice": "偶爾走出來，讓信任的人陪你一下。"
+      }
+    },
+    {
+      "id": "wheel_of_fortune",
+      "number": 10,
+      "numeral": "X",
+      "name": "命運之輪",
+      "english": "Wheel of Fortune",
+      "upright": {
+        "keywords": "轉機、循環、時機",
+        "meaning": "命運之輪轉動著，代表事情正在變化，新的機會可能就在眼前。",
+        "advice": "順著變化走，抓住來到身邊的機會。"
+      },
+      "reversed": {
+        "keywords": "不順、抗拒變化、時機未到",
+        "meaning": "逆位的命運之輪，表示現在有點卡住，時機還沒成熟。",
+        "advice": "別急，輪子總會再轉，先把準備做好。"
+      }
+    },
+    {
+      "id": "justice",
+      "number": 11,
+      "numeral": "XI",
+      "name": "正義",
+      "english": "Justice",
+      "upright": {
+        "keywords": "公平、真相、因果",
+        "meaning": "正義手上拿著天秤和劍，代表公平的判斷，還有面對真相的勇氣。",
+        "advice": "誠實地看待事情，做出你問心無愧的決定。"
+      },
+      "reversed": {
+        "keywords": "不公、逃避責任、偏見",
+        "meaning": "逆位的正義，可能是有些事還不夠公平，或是有人在逃避該負的責任。",
+        "advice": "先把事實弄清楚，再下判斷。"
+      }
+    },
+    {
+      "id": "hanged_man",
+      "number": 12,
+      "numeral": "XII",
+      "name": "吊人",
+      "english": "The Hanged Man",
+      "upright": {
+        "keywords": "暫停、換個角度、放下",
+        "meaning": "吊人倒掛著，卻一臉平靜。換個角度看，事情可能完全不一樣。",
+        "advice": "暫時停一下也沒關係，等待也是一種前進。"
+      },
+      "reversed": {
+        "keywords": "拖延、無謂的犧牲、停滯",
+        "meaning": "逆位的吊人，表示停得太久了，或是付出了卻看不到意義。",
+        "advice": "問問自己還在等什麼，該動的時候就動吧。"
+      }
+    },
+    {
+      "id": "death",
+      "number": 13,
+      "numeral": "XIII",
+      "name": "死神",
+      "english": "Death",
+      "upright": {
+        "keywords": "結束、轉變、重生",
+        "meaning": "別怕，死神牌講的不是壞事，而是一段旅程的結束，和新的開始。",
+        "advice": "放下已經不適合的，才有空間迎接新的東西。"
+      },
+      "reversed": {
+        "keywords": "抗拒改變、停滯、捨不得",
+        "meaning": "逆位的死神，是明明知道該結束了，卻還捨不得放手。",
+        "advice": "慢慢來沒關係，但別一直把自己留在原地。"
+      }
+    },
+    {
+      "id": "temperance",
+      "number": 14,
+      "numeral": "XIV",
+      "name": "節制",
+      "english": "Temperance",
+      "upright": {
+        "keywords": "平衡、調和、耐心",
+        "meaning": "節制的天使把水在兩個杯子之間慢慢倒著，代表調和與平衡。",
+        "advice": "不要太急，也不要太滿，剛剛好就是最好的。"
+      },
+      "reversed": {
+        "keywords": "失衡、過度、急躁",
+        "meaning": "逆位的節制，表示生活裡某些地方有點過頭了。",
+        "advice": "找回自己的步調，作息和心情都調一調。"
+      }
+    },
+    {
+      "id": "devil",
+      "number": 15,
+      "numeral": "XV",
+      "name": "惡魔",
+      "english": "The Devil",
+      "upright": {
+        "keywords": "束縛、慾望、執著",
+        "meaning": "惡魔牌上的鎖鏈其實是鬆的。讓我們被困住的，常常是自己的執著。",
+        "advice": "看清楚是什麼在綁住你，你比想像中自由。"
+      },
+      "reversed": {
+        "keywords": "解脫、覺醒、擺脫束縛",
+        "meaning": "逆位的惡魔，表示你正慢慢掙脫某個困住你的東西。",
+        "advice": "繼續往外走，別回頭。"
+      }
+    },
+    {
+      "id": "tower",
+      "number": 16,
+      "numeral": "XVI",
+      "name": "高塔",
+      "english": "The Tower",
+      "upright": {
+        "keywords": "突變、崩解、真相揭露",
+        "meaning": "高塔被雷打中，代表突然的改變，原本以為穩固的東西搖晃了。",
+        "advice": "倒下的，就讓它倒下吧。之後才能蓋得更穩。"
+      },
+      "reversed": {
+        "keywords": "延遲的改變、內在動盪、勉強支撐",
+        "meaning": "逆位的高塔，可能是改變被拖住了，或是動盪發生在心裡。",
+        "advice": "與其一直撐著，不如主動整理。"
+      }
+    },
+    {
+      "id": "star",
+      "number": 17,
+      "numeral": "XVII",
+      "name": "星星",
+      "english": "The Star",
+      "upright": {
+        "keywords": "希望、療癒、平靜",
+        "meaning": "星星牌是暴風雨過後的夜空，代表希望，和慢慢被療癒的心。",
+        "advice": "相信事情會好起來的，你已經在路上了。"
+      },
+      "reversed": {
+        "keywords": "失望、缺乏信心、迷惘",
+        "meaning": "逆位的星星，表示你可能有點累了，暫時看不見光。",
+        "advice": "星星一直都在，只是雲還沒散。先好好休息。"
+      }
+    },
+    {
+      "id": "moon",
+      "number": 18,
+      "numeral": "XVIII",
+      "name": "月亮",
+      "english": "The Moon",
+      "upright": {
+        "keywords": "不安、幻象、潛意識",
+        "meaning": "月亮的光朦朦朧朧，路看不太清楚，心裡也容易不安。",
+        "advice": "不要被想像出來的害怕嚇到，慢慢走，等天亮。"
+      },
+      "reversed": {
+        "keywords": "釐清、恐懼消散、真相浮現",
+        "meaning": "逆位的月亮，表示迷霧正在散開，事情會慢慢變清楚。",
+        "advice": "相信你看見的，別再被舊的擔心牽著走。"
+      }
+    },
+    {
+      "id": "sun",
+      "number": 19,
+      "numeral": "XIX",
+      "name": "太陽",
+      "english": "The Sun",
+      "upright": {
+        "keywords": "快樂、成功、活力",
+        "meaning": "太陽牌好亮好暖，代表快樂、順利，還有發自內心的笑容。",
+        "advice": "盡情享受這份好運，也把溫暖分給身邊的人。"
+      },
+      "reversed": {
+        "keywords": "短暫低落、過度樂觀、能量不足",
+        "meaning": "逆位的太陽，光還在，只是被雲遮住了一點。",
+        "advice": "不要太苛求自己，小小的開心也很珍貴。"
+      }
+    },
+    {
+      "id": "judgement",
+      "number": 20,
+      "numeral": "XX",
+      "name": "審判",
+      "english": "Judgement",
+      "upright": {
+        "keywords": "覺醒、重生、召喚",
+        "meaning": "審判牌上的號角響起，代表清醒過來，聽見心裡真正的聲音。",
+        "advice": "回應那個召喚吧，現在是重新開始的好時機。"
+      },
+      "reversed": {
+        "keywords": "自我懷疑、逃避、錯過時機",
+        "meaning": "逆位的審判，可能是你聽見了召喚，卻還不敢回應。",
+        "advice": "原諒過去的自己，才能好好往前。"
+      }
+    },
+    {
+      "id": "world",
+      "number": 21,
+      "numeral": "XXI",
+      "name": "世界",
+      "english": "The World",
+      "upright": {
+        "keywords": "完成、圓滿、新階段",
+        "meaning": "世界牌是一個圓滿的句點，代表一段努力終於完成了。",
+        "advice": "好好慶祝，然後帶著收穫，走向下一段旅程。"
+      },
+      "reversed": {
+        "keywords": "未完成、差一步、延遲",
+        "meaning": "逆位的世界，表示只差最後一點點，還沒畫上句號。",
+        "advice": "把剩下的部分收尾，你很快就會到了。"
+      }
+    },
+    {
+      "id": "ace_of_wands",
+      "number": 1,
+      "numeral": "1",
+      "name": "權杖一",
+      "english": "Ace Of Wands",
+      "upright": {
+        "keywords": "新開始、熱情與行動",
+        "meaning": "新的靈感正在萌芽，這是把想法化成第一步的時候。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、熱情與行動",
+        "meaning": "有想法卻遲遲未動，可能需要先找回自己的動機。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "two_of_wands",
+      "number": 2,
+      "numeral": "2",
+      "name": "權杖二",
+      "english": "Two Of Wands",
+      "upright": {
+        "keywords": "協調、熱情與行動",
+        "meaning": "你已經有了方向，可以比較眼前的道路，再決定往哪裡走。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、熱情與行動",
+        "meaning": "對未知的擔心讓你難以選擇，先縮小需要決定的範圍。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "three_of_wands",
+      "number": 3,
+      "numeral": "3",
+      "name": "權杖三",
+      "english": "Three Of Wands",
+      "upright": {
+        "keywords": "成長、熱情與行動",
+        "meaning": "前面的投入開始展開，適合把眼光放遠，也留意合作的可能。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、熱情與行動",
+        "meaning": "期待與進展有落差，可能需要重新安排時間與合作方式。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "four_of_wands",
+      "number": 4,
+      "numeral": "4",
+      "name": "權杖四",
+      "english": "Four Of Wands",
+      "upright": {
+        "keywords": "安定、熱情與行動",
+        "meaning": "穩定的基礎和彼此支持，讓你能安心慶祝一個小小的里程碑。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、熱情與行動",
+        "meaning": "安定感還沒建立，先談清楚彼此對相處與合作的期待。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "five_of_wands",
+      "number": 5,
+      "numeral": "5",
+      "name": "權杖五",
+      "english": "Five Of Wands",
+      "upright": {
+        "keywords": "挑戰、熱情與行動",
+        "meaning": "不同意見正在碰撞，這也可能是學會協調與精進的機會。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、熱情與行動",
+        "meaning": "競爭或摩擦讓人疲倦，留意是否把力氣花在無謂的爭執上。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "six_of_wands",
+      "number": 6,
+      "numeral": "6",
+      "name": "權杖六",
+      "english": "Six Of Wands",
+      "upright": {
+        "keywords": "調整、熱情與行動",
+        "meaning": "努力值得被看見，也別忘記一路支持你的人。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、熱情與行動",
+        "meaning": "外界的肯定暫時不明顯，別只用掌聲衡量自己的努力。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "seven_of_wands",
+      "number": 7,
+      "numeral": "7",
+      "name": "權杖七",
+      "english": "Seven Of Wands",
+      "upright": {
+        "keywords": "選擇、熱情與行動",
+        "meaning": "你可以堅定守住自己的立場，同時清楚表達界線。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、熱情與行動",
+        "meaning": "一直防備讓你累了，先分清楚真正需要回應的事情。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "eight_of_wands",
+      "number": 8,
+      "numeral": "8",
+      "name": "權杖八",
+      "english": "Eight Of Wands",
+      "upright": {
+        "keywords": "投入、熱情與行動",
+        "meaning": "事情的節奏正在加快，適合保持清楚的溝通與俐落的行動。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、熱情與行動",
+        "meaning": "消息或安排卡住時，不妨先確認資訊與彼此的時間。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "nine_of_wands",
+      "number": 9,
+      "numeral": "9",
+      "name": "權杖九",
+      "english": "Nine Of Wands",
+      "upright": {
+        "keywords": "累積、熱情與行動",
+        "meaning": "你已經走過不少考驗，保護自己，也給自己恢復的空間。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、熱情與行動",
+        "meaning": "緊繃與疲憊可能累積過多，適度休息比硬撐更有幫助。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "ten_of_wands",
+      "number": 10,
+      "numeral": "10",
+      "name": "權杖十",
+      "english": "Ten Of Wands",
+      "upright": {
+        "keywords": "階段成果、熱情與行動",
+        "meaning": "責任變多了，完成之前也需要衡量自己的負荷。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、熱情與行動",
+        "meaning": "有些重量不必獨自承擔，重新分工能幫助你喘口氣。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "page_of_wands",
+      "number": 11,
+      "numeral": "PAGE",
+      "name": "權杖侍者",
+      "english": "Page Of Wands",
+      "upright": {
+        "keywords": "學習、熱情與行動",
+        "meaning": "帶著好奇嘗試新的點子，現在適合探索與練習。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、熱情與行動",
+        "meaning": "熱情容易分散，先把一個小想法試完再開新的題目。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "knight_of_wands",
+      "number": 12,
+      "numeral": "KNIGHT",
+      "name": "權杖騎士",
+      "english": "Knight Of Wands",
+      "upright": {
+        "keywords": "行動、熱情與行動",
+        "meaning": "你有向前衝的勇氣，讓熱情配上一點方向就能走得更穩。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、熱情與行動",
+        "meaning": "衝動或急躁可能消耗力氣，行動前先看清目標。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "queen_of_wands",
+      "number": 13,
+      "numeral": "QUEEN",
+      "name": "權杖皇后",
+      "english": "Queen Of Wands",
+      "upright": {
+        "keywords": "照顧、熱情與行動",
+        "meaning": "溫暖而自信地展現自己，也能鼓勵身邊的人。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、熱情與行動",
+        "meaning": "若太在意別人的眼光，試著把注意力放回自己的價值。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "king_of_wands",
+      "number": 14,
+      "numeral": "KING",
+      "name": "權杖國王",
+      "english": "King Of Wands",
+      "upright": {
+        "keywords": "承擔、熱情與行動",
+        "meaning": "適合用清楚的願景帶領行動，也願意為自己的選擇負責。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、熱情與行動",
+        "meaning": "堅持可能變成強求，帶領別人時也要留意對方的想法。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "ace_of_cups",
+      "number": 1,
+      "numeral": "1",
+      "name": "聖杯一",
+      "english": "Ace Of Cups",
+      "upright": {
+        "keywords": "新開始、感受與關係",
+        "meaning": "新的感受或關心正在流動，允許自己接收溫柔與善意。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、感受與關係",
+        "meaning": "感受暫時堵住了，先留一點空間照顧自己的內在。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "two_of_cups",
+      "number": 2,
+      "numeral": "2",
+      "name": "聖杯二",
+      "english": "Two Of Cups",
+      "upright": {
+        "keywords": "協調、感受與關係",
+        "meaning": "彼此理解與互相尊重，能讓關係建立更平衡的連結。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、感受與關係",
+        "meaning": "彼此的感受可能沒有接上，試著把期待說得更清楚。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "three_of_cups",
+      "number": 3,
+      "numeral": "3",
+      "name": "聖杯三",
+      "english": "Three Of Cups",
+      "upright": {
+        "keywords": "成長、感受與關係",
+        "meaning": "朋友與同伴的支持值得珍惜，一起分享喜悅會帶來力量。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、感受與關係",
+        "meaning": "在人群裡仍感到疏離時，留意哪些相處方式真正適合你。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "four_of_cups",
+      "number": 4,
+      "numeral": "4",
+      "name": "聖杯四",
+      "english": "Four Of Cups",
+      "upright": {
+        "keywords": "安定、感受與關係",
+        "meaning": "心裡有些倦怠，暫停一下也許能重新看見眼前的選擇。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、感受與關係",
+        "meaning": "你可能開始願意走出悶住的情緒，重新留意身邊的善意。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "five_of_cups",
+      "number": 5,
+      "numeral": "5",
+      "name": "聖杯五",
+      "english": "Five Of Cups",
+      "upright": {
+        "keywords": "挑戰、感受與關係",
+        "meaning": "失落需要被承認，也可以慢慢看見仍然存在的支持。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、感受與關係",
+        "meaning": "你正在學習與遺憾相處，不必勉強自己立刻放下。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "six_of_cups",
+      "number": 6,
+      "numeral": "6",
+      "name": "聖杯六",
+      "english": "Six Of Cups",
+      "upright": {
+        "keywords": "調整、感受與關係",
+        "meaning": "熟悉的回憶帶來溫暖，可以保留善意，也珍惜現在。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、感受與關係",
+        "meaning": "如果一直停在過去，試著把回憶的滋養帶回今天的生活。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "seven_of_cups",
+      "number": 7,
+      "numeral": "7",
+      "name": "聖杯七",
+      "english": "Seven Of Cups",
+      "upright": {
+        "keywords": "選擇、感受與關係",
+        "meaning": "想像與選擇很多，先確認自己真正想要的是什麼。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、感受與關係",
+        "meaning": "你可能正在看清哪些期待不切實際，讓選擇回到具體生活。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "eight_of_cups",
+      "number": 8,
+      "numeral": "8",
+      "name": "聖杯八",
+      "english": "Eight Of Cups",
+      "upright": {
+        "keywords": "投入、感受與關係",
+        "meaning": "有些熟悉的事已不再滿足你，誠實面對感受能幫助你往前。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、感受與關係",
+        "meaning": "想離開又捨不得時，先分清楚留戀與真正的需要。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "nine_of_cups",
+      "number": 9,
+      "numeral": "9",
+      "name": "聖杯九",
+      "english": "Nine Of Cups",
+      "upright": {
+        "keywords": "累積、感受與關係",
+        "meaning": "留意已經擁有的滿足，也允許自己享受努力後的喜悅。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、感受與關係",
+        "meaning": "外在看似圓滿，內心卻可能有未被照顧的需要。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "ten_of_cups",
+      "number": 10,
+      "numeral": "10",
+      "name": "聖杯十",
+      "english": "Ten Of Cups",
+      "upright": {
+        "keywords": "階段成果、感受與關係",
+        "meaning": "互相接納與共享日常，能帶來有歸屬感的幸福。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、感受與關係",
+        "meaning": "對幸福的想像可能與現實不同，關係需要實際的溝通與照顧。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "page_of_cups",
+      "number": 11,
+      "numeral": "PAGE",
+      "name": "聖杯侍者",
+      "english": "Page Of Cups",
+      "upright": {
+        "keywords": "學習、感受與關係",
+        "meaning": "用柔軟與好奇認識自己的感受，小小的創意也值得表達。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、感受與關係",
+        "meaning": "若情緒容易牽動自己，先辨認感受，再決定如何回應。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "knight_of_cups",
+      "number": 12,
+      "numeral": "KNIGHT",
+      "name": "聖杯騎士",
+      "english": "Knight Of Cups",
+      "upright": {
+        "keywords": "行動、感受與關係",
+        "meaning": "溫柔地表達心意，讓理想與真誠落實在具體的互動裡。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、感受與關係",
+        "meaning": "美好的想像可能走在現實前面，留意承諾能否被實際做到。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "queen_of_cups",
+      "number": 13,
+      "numeral": "QUEEN",
+      "name": "聖杯皇后",
+      "english": "Queen Of Cups",
+      "upright": {
+        "keywords": "照顧、感受與關係",
+        "meaning": "你的同理與直覺能陪伴他人，也別忘記照顧自己的界線。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、感受與關係",
+        "meaning": "承接太多別人的感受時，先把注意力帶回自己的需要。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "king_of_cups",
+      "number": 14,
+      "numeral": "KING",
+      "name": "聖杯國王",
+      "english": "King Of Cups",
+      "upright": {
+        "keywords": "承擔、感受與關係",
+        "meaning": "可以穩定地理解感受，不壓抑情緒，也不讓情緒替你做決定。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、感受與關係",
+        "meaning": "情緒需要更誠實的整理，避免用冷淡或控制來掩蓋不安。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "ace_of_swords",
+      "number": 1,
+      "numeral": "1",
+      "name": "寶劍一",
+      "english": "Ace Of Swords",
+      "upright": {
+        "keywords": "新開始、想法與溝通",
+        "meaning": "一個清楚的理解正在形成，適合把問題說明白、看清楚。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、想法與溝通",
+        "meaning": "資訊或想法還不夠清楚，先確認事實再下結論。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "two_of_swords",
+      "number": 2,
+      "numeral": "2",
+      "name": "寶劍二",
+      "english": "Two Of Swords",
+      "upright": {
+        "keywords": "協調、想法與溝通",
+        "meaning": "面對難以兩全的選擇，需要平靜地比較自己的重視與取捨。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、想法與溝通",
+        "meaning": "一直擱置的決定可能帶來壓力，先處理最需要釐清的一點。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "three_of_swords",
+      "number": 3,
+      "numeral": "3",
+      "name": "寶劍三",
+      "english": "Three Of Swords",
+      "upright": {
+        "keywords": "成長、想法與溝通",
+        "meaning": "有些話或經歷讓人受傷，承認難過是整理自己的開始。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、想法與溝通",
+        "meaning": "傷口正在被重新理解，給自己一點修復與表達的時間。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "four_of_swords",
+      "number": 4,
+      "numeral": "4",
+      "name": "寶劍四",
+      "english": "Four Of Swords",
+      "upright": {
+        "keywords": "安定、想法與溝通",
+        "meaning": "暫停與休息能讓思緒恢復清明，不必一直逼自己找答案。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、想法與溝通",
+        "meaning": "若一直無法放鬆，先替自己安排真正不被打擾的休息。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "five_of_swords",
+      "number": 5,
+      "numeral": "5",
+      "name": "寶劍五",
+      "english": "Five Of Swords",
+      "upright": {
+        "keywords": "挑戰、想法與溝通",
+        "meaning": "一場爭論即使分出輸贏，也要留意付出的關係代價。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、想法與溝通",
+        "meaning": "你可以重新選擇溝通方式，讓修復比證明自己更重要。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "six_of_swords",
+      "number": 6,
+      "numeral": "6",
+      "name": "寶劍六",
+      "english": "Six Of Swords",
+      "upright": {
+        "keywords": "調整、想法與溝通",
+        "meaning": "你正在離開混亂，循序漸進的調整有助於找回平靜。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、想法與溝通",
+        "meaning": "舊問題可能仍牽住你，先確認需要帶走與需要放下的部分。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "seven_of_swords",
+      "number": 7,
+      "numeral": "7",
+      "name": "寶劍七",
+      "english": "Seven Of Swords",
+      "upright": {
+        "keywords": "選擇、想法與溝通",
+        "meaning": "行動需要策略與分寸，也要誠實看待自己的立場。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、想法與溝通",
+        "meaning": "隱瞞或迴避可能讓事情更複雜，適合把關鍵問題坦白說清。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "eight_of_swords",
+      "number": 8,
+      "numeral": "8",
+      "name": "寶劍八",
+      "english": "Eight Of Swords",
+      "upright": {
+        "keywords": "投入、想法與溝通",
+        "meaning": "有些限制來自困住自己的想法，先找一個能做到的小出口。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、想法與溝通",
+        "meaning": "你可能開始看見選擇，試著重新拿回一點行動的空間。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "nine_of_swords",
+      "number": 9,
+      "numeral": "9",
+      "name": "寶劍九",
+      "english": "Nine Of Swords",
+      "upright": {
+        "keywords": "累積、想法與溝通",
+        "meaning": "擔心在腦中反覆出現時，可以先把感受和事實分開整理。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、想法與溝通",
+        "meaning": "你不必獨自消化所有煩惱，向信任的人說說也許會輕一些。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "ten_of_swords",
+      "number": 10,
+      "numeral": "10",
+      "name": "寶劍十",
+      "english": "Ten Of Swords",
+      "upright": {
+        "keywords": "階段成果、想法與溝通",
+        "meaning": "一個辛苦的階段可能需要告一段落，先讓自己停下來恢復。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、想法與溝通",
+        "meaning": "從低潮重新起步可以很慢，不需要一次把所有事情補回來。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "page_of_swords",
+      "number": 11,
+      "numeral": "PAGE",
+      "name": "寶劍侍者",
+      "english": "Page Of Swords",
+      "upright": {
+        "keywords": "學習、想法與溝通",
+        "meaning": "保持好奇並查證資訊，好的問題能幫助你更靠近理解。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、想法與溝通",
+        "meaning": "太快判斷或轉述消息容易誤會，先查證再表達。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "knight_of_swords",
+      "number": 12,
+      "numeral": "KNIGHT",
+      "name": "寶劍騎士",
+      "english": "Knight Of Swords",
+      "upright": {
+        "keywords": "行動、想法與溝通",
+        "meaning": "清楚的目標帶來行動力，說話直接時也記得照顧對方的感受。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、想法與溝通",
+        "meaning": "急著說服別人可能忽略細節，先放慢速度聽完整件事。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "queen_of_swords",
+      "number": 13,
+      "numeral": "QUEEN",
+      "name": "寶劍皇后",
+      "english": "Queen Of Swords",
+      "upright": {
+        "keywords": "照顧、想法與溝通",
+        "meaning": "用清楚的界線與誠實的表達保護自己，也保留理解的餘地。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、想法與溝通",
+        "meaning": "受傷後容易把話說得太冷，試著讓界線清楚而不傷人。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "king_of_swords",
+      "number": 14,
+      "numeral": "KING",
+      "name": "寶劍國王",
+      "english": "King Of Swords",
+      "upright": {
+        "keywords": "承擔、想法與溝通",
+        "meaning": "適合根據事實與原則做決定，用公平的態度面對不同看法。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、想法與溝通",
+        "meaning": "如果只剩下對錯，可能漏掉人的感受，重新檢視自己的判斷。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "ace_of_pentacles",
+      "number": 1,
+      "numeral": "1",
+      "name": "錢幣一",
+      "english": "Ace Of Pentacles",
+      "upright": {
+        "keywords": "新開始、生活與資源",
+        "meaning": "一個可以踏實培養的機會出現了，從具體的小步驟開始。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、生活與資源",
+        "meaning": "機會還需要準備與條件，先確認自己手邊能投入的資源。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "two_of_pentacles",
+      "number": 2,
+      "numeral": "2",
+      "name": "錢幣二",
+      "english": "Two Of Pentacles",
+      "upright": {
+        "keywords": "協調、生活與資源",
+        "meaning": "你正在平衡不同責任，彈性安排能幫助日常保持節奏。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、生活與資源",
+        "meaning": "兼顧太多事情可能讓你忙亂，先調整優先順序。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "three_of_pentacles",
+      "number": 3,
+      "numeral": "3",
+      "name": "錢幣三",
+      "english": "Three Of Pentacles",
+      "upright": {
+        "keywords": "成長、生活與資源",
+        "meaning": "分工、練習與互相學習，能讓事情逐步做得更好。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、生活與資源",
+        "meaning": "合作期待若不一致，需要先把角色、標準與分工談清楚。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "four_of_pentacles",
+      "number": 4,
+      "numeral": "4",
+      "name": "錢幣四",
+      "english": "Four Of Pentacles",
+      "upright": {
+        "keywords": "安定、生活與資源",
+        "meaning": "珍惜手邊的資源能帶來安定，也記得替生活保留彈性。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、生活與資源",
+        "meaning": "抓得太緊可能讓人緊繃，檢視哪些保護已變成限制。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "five_of_pentacles",
+      "number": 5,
+      "numeral": "5",
+      "name": "錢幣五",
+      "english": "Five Of Pentacles",
+      "upright": {
+        "keywords": "挑戰、生活與資源",
+        "meaning": "缺乏支持時容易感到孤單，留意身邊有哪些可以求助的資源。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、生活與資源",
+        "meaning": "你可能正在重新找到支持，允許自己一步步改善眼前的處境。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "six_of_pentacles",
+      "number": 6,
+      "numeral": "6",
+      "name": "錢幣六",
+      "english": "Six Of Pentacles",
+      "upright": {
+        "keywords": "調整、生活與資源",
+        "meaning": "付出與接受需要平衡，適合在能力範圍內互相支持。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、生活與資源",
+        "meaning": "不對等的付出容易造成壓力，重新確認幫忙的界線與期待。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "seven_of_pentacles",
+      "number": 7,
+      "numeral": "7",
+      "name": "錢幣七",
+      "english": "Seven Of Pentacles",
+      "upright": {
+        "keywords": "選擇、生活與資源",
+        "meaning": "成果需要時間，現在適合停下來評估投入是否仍符合方向。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、生活與資源",
+        "meaning": "等待令人心急時，先檢查方法，而不是只增加投入。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "eight_of_pentacles",
+      "number": 8,
+      "numeral": "8",
+      "name": "錢幣八",
+      "english": "Eight Of Pentacles",
+      "upright": {
+        "keywords": "投入、生活與資源",
+        "meaning": "穩定練習與留意細節，能把能力一點一點累積起來。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、生活與資源",
+        "meaning": "反覆做事卻失去方向時，先調整方法與練習的重點。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "nine_of_pentacles",
+      "number": 9,
+      "numeral": "9",
+      "name": "錢幣九",
+      "english": "Nine Of Pentacles",
+      "upright": {
+        "keywords": "累積、生活與資源",
+        "meaning": "你累積的能力與自立值得肯定，也可以安心享受自己的生活。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、生活與資源",
+        "meaning": "若太用成就證明自己，試著重新找回生活裡真正的舒適。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "ten_of_pentacles",
+      "number": 10,
+      "numeral": "10",
+      "name": "錢幣十",
+      "english": "Ten Of Pentacles",
+      "upright": {
+        "keywords": "階段成果、生活與資源",
+        "meaning": "長期累積與彼此支持，能為日常建立更穩固的基礎。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、生活與資源",
+        "meaning": "長期安排可能需要重新協調，把資源與責任分配說清楚。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "page_of_pentacles",
+      "number": 11,
+      "numeral": "PAGE",
+      "name": "錢幣侍者",
+      "english": "Page Of Pentacles",
+      "upright": {
+        "keywords": "學習、生活與資源",
+        "meaning": "踏實學習一項技能，讓新的計畫從可以做到的地方開始。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、生活與資源",
+        "meaning": "若計畫一直停在準備，先訂一個能完成的小練習。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "knight_of_pentacles",
+      "number": 12,
+      "numeral": "KNIGHT",
+      "name": "錢幣騎士",
+      "english": "Knight Of Pentacles",
+      "upright": {
+        "keywords": "行動、生活與資源",
+        "meaning": "穩定、耐心與可靠的步驟，能幫助你持續完成日常的責任。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、生活與資源",
+        "meaning": "規律可能變成停滯，看看是否需要替方法加一點彈性。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "queen_of_pentacles",
+      "number": 13,
+      "numeral": "QUEEN",
+      "name": "錢幣皇后",
+      "english": "Queen Of Pentacles",
+      "upright": {
+        "keywords": "照顧、生活與資源",
+        "meaning": "細心照顧生活與身邊的人，也替自己建立舒適而穩定的日常。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、生活與資源",
+        "meaning": "照顧別人之前先衡量負荷，你的休息也值得被安排。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    },
+    {
+      "id": "king_of_pentacles",
+      "number": 14,
+      "numeral": "KING",
+      "name": "錢幣國王",
+      "english": "King Of Pentacles",
+      "upright": {
+        "keywords": "承擔、生活與資源",
+        "meaning": "成熟地管理資源與責任，能讓成果成為可靠而長久的支持。",
+        "advice": "把這份提醒放回你現在面對的事情，選一個自己做得到的小步驟。"
+      },
+      "reversed": {
+        "keywords": "重新整理、生活與資源",
+        "meaning": "如果太用外在成果衡量價值，試著重新平衡生活與責任。",
+        "advice": "先留意最讓你費力的地方，調整步調，也允許自己尋求支持。"
+      }
+    }
+  ]
+}

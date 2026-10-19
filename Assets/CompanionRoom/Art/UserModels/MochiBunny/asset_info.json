@@ -1,0 +1,81 @@
+{
+  "key": "MochiBunny",
+  "label": "麻糬兔",
+  "source": "D:\\UNITY\\3D伴生範例\\Artifacts\\HandmadeDecor\\MochiBunny.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/MochiBunny/MochiBunny.fbx",
+  "size": [
+    0.9387091398239136,
+    0.8715254068374634,
+    0.8831896781921387
+  ],
+  "targetWidth": 0.42,
+  "meshes": 13,
+  "triangles": 87564,
+  "materials": [
+    {
+      "name": "CocoaFace",
+      "baseColor": [
+        0.1899999976158142,
+        0.08500000089406967,
+        0.06300000101327896,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/MochiBunny/Textures/CocoaFace.png"
+      }
+    },
+    {
+      "name": "MochiIvory",
+      "baseColor": [
+        0.9599999785423279,
+        0.8899999856948853,
+        0.7900000214576721,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/MochiBunny/Textures/MochiIvory.png"
+      }
+    },
+    {
+      "name": "CheekPink",
+      "baseColor": [
+        0.9200000166893005,
+        0.4000000059604645,
+        0.47999998927116394,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/MochiBunny/Textures/CheekPink.png"
+      }
+    },
+    {
+      "name": "CreamCanvas",
+      "baseColor": [
+        0.9900000095367432,
+        0.9399999976158142,
+        0.8399999737739563,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/MochiBunny/Textures/CreamCanvas.png"
+      }
+    },
+    {
+      "name": "MarshmallowPink",
+      "baseColor": [
+        0.9100000262260437,
+        0.6100000143051147,
+        0.6499999761581421,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/MochiBunny/Textures/MarshmallowPink.png"
+      }
+    }
+  ]
+}

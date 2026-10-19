@@ -1,0 +1,32 @@
+{
+  "key": "GamingChair",
+  "label": "粉兔椅",
+  "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\粉兔椅.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/GamingChair/GamingChair.fbx",
+  "size": [
+    0.6810913681983948,
+    0.5948487520217896,
+    1.0
+  ],
+  "targetWidth": 0.68,
+  "meshes": 1,
+  "triangles": 996138,
+  "materials": [
+    {
+      "name": "tripo_mat_47ab28c4",
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/GamingChair/Textures/GamingChair_Texture_00.jpg",
+        "normal": "Assets/CompanionRoom/Art/UserModels/GamingChair/Textures/GamingChair_Texture_01.png",
+        "roughness": "Assets/CompanionRoom/Art/UserModels/GamingChair/Textures/GamingChair_Texture_02.jpg",
+        "metallic": "Assets/CompanionRoom/Art/UserModels/GamingChair/Textures/GamingChair_Texture_03.jpg"
+      }
+    }
+  ]
+}

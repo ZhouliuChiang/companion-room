@@ -1,0 +1,94 @@
+{
+  "key": "WallArtBunny",
+  "label": "掛畫（兔兔）",
+  "source": "D:\\UNITY\\3D伴生範例\\Artifacts\\HandmadeDecor\\WallArtBunny.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/WallArtBunny/WallArtBunny.fbx",
+  "size": [
+    0.5,
+    0.1120000034570694,
+    0.6200000047683716
+  ],
+  "targetWidth": 0.42,
+  "meshes": 11,
+  "triangles": 9076,
+  "materials": [
+    {
+      "name": "PaleMaple",
+      "baseColor": [
+        0.800000011920929,
+        0.6100000143051147,
+        0.4000000059604645,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtBunny/Textures/PaleMaple.png"
+      }
+    },
+    {
+      "name": "CreamCanvas",
+      "baseColor": [
+        0.9900000095367432,
+        0.9399999976158142,
+        0.8399999737739563,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtBunny/Textures/CreamCanvas.png"
+      }
+    },
+    {
+      "name": "CheekPink",
+      "baseColor": [
+        0.9200000166893005,
+        0.4000000059604645,
+        0.47999998927116394,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtBunny/Textures/CheekPink.png"
+      }
+    },
+    {
+      "name": "MarshmallowPink",
+      "baseColor": [
+        0.9100000262260437,
+        0.6100000143051147,
+        0.6499999761581421,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtBunny/Textures/MarshmallowPink.png"
+      }
+    },
+    {
+      "name": "ButterYellow",
+      "baseColor": [
+        0.9599999785423279,
+        0.7400000095367432,
+        0.3700000047683716,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtBunny/Textures/ButterYellow.png"
+      }
+    },
+    {
+      "name": "CocoaFace",
+      "baseColor": [
+        0.1899999976158142,
+        0.08500000089406967,
+        0.06300000101327896,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtBunny/Textures/CocoaFace.png"
+      }
+    }
+  ]
+}

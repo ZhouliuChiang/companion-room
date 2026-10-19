@@ -1,0 +1,457 @@
+{
+  "assets": [
+    {
+      "key": "SmallTable",
+      "label": "小木桌",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\小木桌.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/SmallTable/SmallTable.fbx",
+      "size": [
+        1.0000001192092896,
+        0.9970093965530396,
+        0.3728333115577698
+      ],
+      "targetWidth": 0.85,
+      "meshes": 1,
+      "triangles": 992326,
+      "materials": [
+        {
+          "name": "tripo_mat_84e7173f",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/SmallTable/Textures/SmallTable_Texture_00.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "TarotCards",
+      "label": "塔羅牌",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\塔羅牌.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/TarotCards/TarotCards.fbx",
+      "size": [
+        1.0000001192092896,
+        0.5478515625,
+        0.1901398003101349
+      ],
+      "targetWidth": 0.3,
+      "meshes": 1,
+      "triangles": 956582,
+      "materials": [
+        {
+          "name": "tripo_mat_72356ce3",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/TarotCards/Textures/TarotCards_Texture_00.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "Pendulum",
+      "label": "靈擺",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\靈擺.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/Pendulum/Pendulum.fbx",
+      "size": [
+        0.8784180879592896,
+        0.7507325410842896,
+        1.0
+      ],
+      "targetWidth": 0.18,
+      "meshes": 1,
+      "triangles": 943554,
+      "materials": [
+        {
+          "name": "tripo_mat_222cb96d",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/Pendulum/Textures/Pendulum_Texture_00.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "Curtain",
+      "label": "窗簾",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\窗簾.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/Curtain/Curtain.fbx",
+      "size": [
+        1.0000001192092896,
+        0.3153381943702698,
+        0.8489990234375
+      ],
+      "targetWidth": 1.65,
+      "meshes": 1,
+      "triangles": 970974,
+      "materials": [
+        {
+          "name": "tripo_mat_2eca38ea",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/Curtain/Textures/Curtain_Texture_00.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "MochiBunny",
+      "label": "麻糬兔",
+      "source": "D:\\UNITY\\3D伴生範例\\Artifacts\\HandmadeDecor\\MochiBunny.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/MochiBunny/MochiBunny.fbx",
+      "size": [
+        0.9387091398239136,
+        0.8715254068374634,
+        0.8831896781921387
+      ],
+      "targetWidth": 0.42,
+      "meshes": 13,
+      "triangles": 87564,
+      "materials": [
+        {
+          "name": "CocoaFace",
+          "baseColor": [
+            0.1899999976158142,
+            0.08500000089406967,
+            0.06300000101327896,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/MochiBunny/Textures/CocoaFace.png"
+          }
+        },
+        {
+          "name": "MochiIvory",
+          "baseColor": [
+            0.9599999785423279,
+            0.8899999856948853,
+            0.7900000214576721,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/MochiBunny/Textures/MochiIvory.png"
+          }
+        },
+        {
+          "name": "CheekPink",
+          "baseColor": [
+            0.9200000166893005,
+            0.4000000059604645,
+            0.47999998927116394,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/MochiBunny/Textures/CheekPink.png"
+          }
+        },
+        {
+          "name": "CreamCanvas",
+          "baseColor": [
+            0.9900000095367432,
+            0.9399999976158142,
+            0.8399999737739563,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/MochiBunny/Textures/CreamCanvas.png"
+          }
+        },
+        {
+          "name": "MarshmallowPink",
+          "baseColor": [
+            0.9100000262260437,
+            0.6100000143051147,
+            0.6499999761581421,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/MochiBunny/Textures/MarshmallowPink.png"
+          }
+        }
+      ]
+    },
+    {
+      "key": "WallArtBunny",
+      "label": "掛畫（兔兔）",
+      "source": "D:\\UNITY\\3D伴生範例\\Artifacts\\HandmadeDecor\\WallArtBunny.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/WallArtBunny/WallArtBunny.fbx",
+      "size": [
+        0.5,
+        0.1120000034570694,
+        0.6200000047683716
+      ],
+      "targetWidth": 0.42,
+      "meshes": 11,
+      "triangles": 9076,
+      "materials": [
+        {
+          "name": "PaleMaple",
+          "baseColor": [
+            0.800000011920929,
+            0.6100000143051147,
+            0.4000000059604645,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtBunny/Textures/PaleMaple.png"
+          }
+        },
+        {
+          "name": "CreamCanvas",
+          "baseColor": [
+            0.9900000095367432,
+            0.9399999976158142,
+            0.8399999737739563,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtBunny/Textures/CreamCanvas.png"
+          }
+        },
+        {
+          "name": "CheekPink",
+          "baseColor": [
+            0.9200000166893005,
+            0.4000000059604645,
+            0.47999998927116394,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtBunny/Textures/CheekPink.png"
+          }
+        },
+        {
+          "name": "MarshmallowPink",
+          "baseColor": [
+            0.9100000262260437,
+            0.6100000143051147,
+            0.6499999761581421,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtBunny/Textures/MarshmallowPink.png"
+          }
+        },
+        {
+          "name": "ButterYellow",
+          "baseColor": [
+            0.9599999785423279,
+            0.7400000095367432,
+            0.3700000047683716,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtBunny/Textures/ButterYellow.png"
+          }
+        },
+        {
+          "name": "CocoaFace",
+          "baseColor": [
+            0.1899999976158142,
+            0.08500000089406967,
+            0.06300000101327896,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtBunny/Textures/CocoaFace.png"
+          }
+        }
+      ]
+    },
+    {
+      "key": "WallArtTulip",
+      "label": "掛畫（鬱金香）",
+      "source": "D:\\UNITY\\3D伴生範例\\Artifacts\\HandmadeDecor\\WallArtTulip.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/WallArtTulip/WallArtTulip.fbx",
+      "size": [
+        0.5,
+        0.11500000953674316,
+        0.6200000047683716
+      ],
+      "targetWidth": 0.38,
+      "meshes": 9,
+      "triangles": 10868,
+      "materials": [
+        {
+          "name": "SoftSage",
+          "baseColor": [
+            0.4000000059604645,
+            0.550000011920929,
+            0.3199999928474426,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtTulip/Textures/SoftSage.png"
+          }
+        },
+        {
+          "name": "CheekPink",
+          "baseColor": [
+            0.9200000166893005,
+            0.4000000059604645,
+            0.47999998927116394,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtTulip/Textures/CheekPink.png"
+          }
+        },
+        {
+          "name": "PaleMaple",
+          "baseColor": [
+            0.800000011920929,
+            0.6100000143051147,
+            0.4000000059604645,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtTulip/Textures/PaleMaple.png"
+          }
+        },
+        {
+          "name": "MarshmallowPink",
+          "baseColor": [
+            0.9100000262260437,
+            0.6100000143051147,
+            0.6499999761581421,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtTulip/Textures/MarshmallowPink.png"
+          }
+        },
+        {
+          "name": "CreamCanvas",
+          "baseColor": [
+            0.9900000095367432,
+            0.9399999976158142,
+            0.8399999737739563,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtTulip/Textures/CreamCanvas.png"
+          }
+        }
+      ]
+    },
+    {
+      "key": "WallArtMoon",
+      "label": "掛畫（星月）",
+      "source": "D:\\UNITY\\3D伴生範例\\Artifacts\\HandmadeDecor\\WallArtMoon.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/WallArtMoon/WallArtMoon.fbx",
+      "size": [
+        0.5,
+        0.100002720952034,
+        0.6200000047683716
+      ],
+      "targetWidth": 0.36,
+      "meshes": 7,
+      "triangles": 3748,
+      "materials": [
+        {
+          "name": "PaleMaple",
+          "baseColor": [
+            0.800000011920929,
+            0.6100000143051147,
+            0.4000000059604645,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtMoon/Textures/PaleMaple.png"
+          }
+        },
+        {
+          "name": "ButterYellow",
+          "baseColor": [
+            0.9599999785423279,
+            0.7400000095367432,
+            0.3700000047683716,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtMoon/Textures/ButterYellow.png"
+          }
+        },
+        {
+          "name": "PastelLilac",
+          "baseColor": [
+            0.6399999856948853,
+            0.5099999904632568,
+            0.7599999904632568,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtMoon/Textures/PastelLilac.png"
+          }
+        },
+        {
+          "name": "MarshmallowPink",
+          "baseColor": [
+            0.9100000262260437,
+            0.6100000143051147,
+            0.6499999761581421,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtMoon/Textures/MarshmallowPink.png"
+          }
+        },
+        {
+          "name": "CreamCanvas",
+          "baseColor": [
+            0.9900000095367432,
+            0.9399999976158142,
+            0.8399999737739563,
+            1.0
+          ],
+          "roughness": 0.8,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtMoon/Textures/CreamCanvas.png"
+          }
+        }
+      ]
+    }
+  ]
+}

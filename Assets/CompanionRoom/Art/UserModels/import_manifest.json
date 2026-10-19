@@ -1,0 +1,355 @@
+{
+  "assets": [
+    {
+      "key": "Room",
+      "label": "房間",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\房間.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/Room/Room.fbx",
+      "size": [
+        1.0,
+        0.9958497881889343,
+        0.82666015625
+      ],
+      "targetWidth": 5.4,
+      "meshes": 1,
+      "triangles": 976744,
+      "materials": [
+        {
+          "name": "tripo_mat_db7d783a",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/Room/Textures/Room_Texture_00.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "Bed",
+      "label": "床",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\床.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/Bed/Bed.fbx",
+      "size": [
+        0.8549805879592896,
+        1.000000238418579,
+        0.68743896484375
+      ],
+      "targetWidth": 1.6,
+      "meshes": 1,
+      "triangles": 946306,
+      "materials": [
+        {
+          "name": "tripo_mat_5cbccc9e",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/Bed/Textures/Bed_Texture_00.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "Rug",
+      "label": "地毯",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\地毯.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/Rug/Rug.fbx",
+      "size": [
+        0.9938355684280396,
+        1.0000001192092896,
+        0.1393432915210724
+      ],
+      "targetWidth": 2.2,
+      "meshes": 1,
+      "triangles": 969306,
+      "materials": [
+        {
+          "name": "tripo_mat_fc673de7",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/Rug/Textures/Rug_Texture_00.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "FlowerPlant",
+      "label": "盆栽（花）",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\盆栽(花).blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/FlowerPlant/FlowerPlant.fbx",
+      "size": [
+        0.7318726181983948,
+        0.46627819538116455,
+        1.0
+      ],
+      "targetWidth": 0.32,
+      "meshes": 1,
+      "triangles": 993206,
+      "materials": [
+        {
+          "name": "tripo_mat_952478b7",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/FlowerPlant/Textures/FlowerPlant_Texture_00.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "GreenPlant",
+      "label": "盆栽（草）",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\盆栽(草).blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/GreenPlant/GreenPlant.fbx",
+      "size": [
+        0.8760377168655396,
+        0.8085939288139343,
+        1.0
+      ],
+      "targetWidth": 0.36,
+      "meshes": 1,
+      "triangles": 990566,
+      "materials": [
+        {
+          "name": "tripo_mat_8f8407ef",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/GreenPlant/Textures/GreenPlant_Texture_00.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "GamingDesk",
+      "label": "粉兔桌",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\粉兔桌.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/GamingDesk/GamingDesk.fbx",
+      "size": [
+        0.99951171875,
+        0.5102540254592896,
+        0.87158203125
+      ],
+      "targetWidth": 1.65,
+      "meshes": 1,
+      "triangles": 9880,
+      "materials": [
+        {
+          "name": "tripo_mat_f71f36d8",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/GamingDesk/Textures/GamingDesk_Texture_00.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "GamingChair",
+      "label": "粉兔椅",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\粉兔椅.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/GamingChair/GamingChair.fbx",
+      "size": [
+        0.6810913681983948,
+        0.5948487520217896,
+        1.0
+      ],
+      "targetWidth": 0.68,
+      "meshes": 1,
+      "triangles": 996138,
+      "materials": [
+        {
+          "name": "tripo_mat_47ab28c4",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.5,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/GamingChair/Textures/GamingChair_Texture_00.jpg",
+            "normal": "Assets/CompanionRoom/Art/UserModels/GamingChair/Textures/GamingChair_Texture_01.png",
+            "roughness": "Assets/CompanionRoom/Art/UserModels/GamingChair/Textures/GamingChair_Texture_02.jpg",
+            "metallic": "Assets/CompanionRoom/Art/UserModels/GamingChair/Textures/GamingChair_Texture_03.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "Computer",
+      "label": "粉兔電腦",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\粉兔電腦.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/Computer/Computer.fbx",
+      "size": [
+        0.9513550996780396,
+        0.44067394733428955,
+        0.866790771484375
+      ],
+      "targetWidth": 0.8,
+      "meshes": 1,
+      "triangles": 893384,
+      "materials": [
+        {
+          "name": "tripo_mat_1469553b",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/Computer/Textures/Computer_Texture_00.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "Window",
+      "label": "窗戶",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\窗戶.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/Window/Window.fbx",
+      "size": [
+        0.9180909395217896,
+        0.3292542099952698,
+        1.0
+      ],
+      "targetWidth": 1.25,
+      "meshes": 1,
+      "triangles": 927728,
+      "materials": [
+        {
+          "name": "tripo_mat_557723ee",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/Window/Textures/Window_Texture_00.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "Bookcase",
+      "label": "矮書架",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\矮書架.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/Bookcase/Bookcase.fbx",
+      "size": [
+        1.0000001192092896,
+        0.41351318359375,
+        0.89703369140625
+      ],
+      "targetWidth": 1.25,
+      "meshes": 1,
+      "triangles": 974042,
+      "materials": [
+        {
+          "name": "tripo_mat_f1eddddd",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/Bookcase/Textures/Bookcase_Texture_00.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "WallLamp",
+      "label": "壁燈",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\壁燈.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/WallLamp/WallLamp.fbx",
+      "size": [
+        0.6541138291358948,
+        0.6084595918655396,
+        1.0
+      ],
+      "targetWidth": 0.24,
+      "meshes": 1,
+      "triangles": 964816,
+      "materials": [
+        {
+          "name": "tripo_mat_97831b9f",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallLamp/Textures/WallLamp_Texture_00.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "key": "WallShelf",
+      "label": "牆架",
+      "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\牆架.blend",
+      "fbx": "Assets/CompanionRoom/Art/UserModels/WallShelf/WallShelf.fbx",
+      "size": [
+        1.0000001192092896,
+        0.3469544053077698,
+        0.2279510796070099
+      ],
+      "targetWidth": 0.8,
+      "meshes": 1,
+      "triangles": 954658,
+      "materials": [
+        {
+          "name": "tripo_mat_ea97ccff",
+          "baseColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ],
+          "roughness": 0.8999999761581421,
+          "textures": {
+            "baseColor": "Assets/CompanionRoom/Art/UserModels/WallShelf/Textures/WallShelf_Texture_00.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

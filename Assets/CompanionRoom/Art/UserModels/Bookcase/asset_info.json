@@ -1,0 +1,29 @@
+{
+  "key": "Bookcase",
+  "label": "矮書架",
+  "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\矮書架.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/Bookcase/Bookcase.fbx",
+  "size": [
+    1.0000001192092896,
+    0.41351318359375,
+    0.89703369140625
+  ],
+  "targetWidth": 1.25,
+  "meshes": 1,
+  "triangles": 974042,
+  "materials": [
+    {
+      "name": "tripo_mat_f1eddddd",
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8999999761581421,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/Bookcase/Textures/Bookcase_Texture_00.jpg"
+      }
+    }
+  ]
+}

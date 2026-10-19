@@ -1,0 +1,81 @@
+{
+  "key": "WallArtTulip",
+  "label": "掛畫（鬱金香）",
+  "source": "D:\\UNITY\\3D伴生範例\\Artifacts\\HandmadeDecor\\WallArtTulip.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/WallArtTulip/WallArtTulip.fbx",
+  "size": [
+    0.5,
+    0.11500000953674316,
+    0.6200000047683716
+  ],
+  "targetWidth": 0.38,
+  "meshes": 9,
+  "triangles": 10868,
+  "materials": [
+    {
+      "name": "SoftSage",
+      "baseColor": [
+        0.4000000059604645,
+        0.550000011920929,
+        0.3199999928474426,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtTulip/Textures/SoftSage.png"
+      }
+    },
+    {
+      "name": "CheekPink",
+      "baseColor": [
+        0.9200000166893005,
+        0.4000000059604645,
+        0.47999998927116394,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtTulip/Textures/CheekPink.png"
+      }
+    },
+    {
+      "name": "PaleMaple",
+      "baseColor": [
+        0.800000011920929,
+        0.6100000143051147,
+        0.4000000059604645,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtTulip/Textures/PaleMaple.png"
+      }
+    },
+    {
+      "name": "MarshmallowPink",
+      "baseColor": [
+        0.9100000262260437,
+        0.6100000143051147,
+        0.6499999761581421,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtTulip/Textures/MarshmallowPink.png"
+      }
+    },
+    {
+      "name": "CreamCanvas",
+      "baseColor": [
+        0.9900000095367432,
+        0.9399999976158142,
+        0.8399999737739563,
+        1.0
+      ],
+      "roughness": 0.8,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/WallArtTulip/Textures/CreamCanvas.png"
+      }
+    }
+  ]
+}

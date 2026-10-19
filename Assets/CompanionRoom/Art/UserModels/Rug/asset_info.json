@@ -1,0 +1,29 @@
+{
+  "key": "Rug",
+  "label": "地毯",
+  "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\地毯.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/Rug/Rug.fbx",
+  "size": [
+    0.9938355684280396,
+    1.0000001192092896,
+    0.1393432915210724
+  ],
+  "targetWidth": 2.2,
+  "meshes": 1,
+  "triangles": 969306,
+  "materials": [
+    {
+      "name": "tripo_mat_fc673de7",
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8999999761581421,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/Rug/Textures/Rug_Texture_00.jpg"
+      }
+    }
+  ]
+}

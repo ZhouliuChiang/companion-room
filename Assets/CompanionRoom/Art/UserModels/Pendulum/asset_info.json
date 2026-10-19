@@ -1,0 +1,29 @@
+{
+  "key": "Pendulum",
+  "label": "靈擺",
+  "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\靈擺.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/Pendulum/Pendulum.fbx",
+  "size": [
+    0.8784180879592896,
+    0.7507325410842896,
+    1.0
+  ],
+  "targetWidth": 0.18,
+  "meshes": 1,
+  "triangles": 943554,
+  "materials": [
+    {
+      "name": "tripo_mat_222cb96d",
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8999999761581421,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/Pendulum/Textures/Pendulum_Texture_00.jpg"
+      }
+    }
+  ]
+}

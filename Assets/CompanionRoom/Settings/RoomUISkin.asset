@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6383b45744ac6c47bebae74c1dcd8af, type: 3}
+  m_Name: RoomUISkin
+  m_EditorClassIdentifier: Assembly-CSharp::CompanionRoom.UI.RoomUISkin
+  font: {fileID: 0}
+  paper: {r: 0.9843137, g: 0.9529412, b: 0.9254902, a: 1}
+  frame: {r: 0.5411765, g: 0.37254903, b: 0.3529412, a: 1}
+  line: {r: 0.8862745, g: 0.7647059, b: 0.70980394, a: 1}
+  ink: {r: 0.3529412, g: 0.27058825, b: 0.25882354, a: 1}
+  inkSoft: {r: 0.6039216, g: 0.49803922, b: 0.47843137, a: 1}
+  accent: {r: 0.8509804, g: 0.4745098, b: 0.5411765, a: 1}
+  accentInk: {r: 1, g: 0.972549, b: 0.95686275, a: 1}
+  backdrop: {r: 0.16, g: 0.1, b: 0.12, a: 0.55}
+  highlight: {r: 1, g: 0.8509804, b: 0.65882355, a: 1}
+  portrait: {fileID: 0}
+  portraitSize: {x: 600, y: 720}
+  portraitWidthShown: 0.84
+  dialogueBox: {fileID: 0}
+  namePlate: {fileID: 0}
+  panel: {fileID: 0}
+  titlePlate: {fileID: 0}
+  button: {fileID: 0}
+  accentButton: {fileID: 0}
+  roundButton: {fileID: 0}
+  shadow: {fileID: 0}
+  sliderTrack: {fileID: 0}
+  sliderFill: {fileID: 0}
+  sliderKnob: {fileID: 0}
+  checkBox: {fileID: 0}
+  checkMark: {fileID: 0}
+  cardBack: {fileID: 0}
+  cardFace: {fileID: 0}

@@ -1,0 +1,29 @@
+{
+  "key": "Computer",
+  "label": "粉兔電腦",
+  "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\粉兔電腦.blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/Computer/Computer.fbx",
+  "size": [
+    0.9513550996780396,
+    0.44067394733428955,
+    0.866790771484375
+  ],
+  "targetWidth": 0.8,
+  "meshes": 1,
+  "triangles": 893384,
+  "materials": [
+    {
+      "name": "tripo_mat_1469553b",
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8999999761581421,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/Computer/Textures/Computer_Texture_00.jpg"
+      }
+    }
+  ]
+}

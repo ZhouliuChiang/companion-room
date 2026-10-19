@@ -1,0 +1,29 @@
+{
+  "key": "GreenPlant",
+  "label": "盆栽（草）",
+  "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\盆栽(草).blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/GreenPlant/GreenPlant.fbx",
+  "size": [
+    0.8760377168655396,
+    0.8085939288139343,
+    1.0
+  ],
+  "targetWidth": 0.36,
+  "meshes": 1,
+  "triangles": 990566,
+  "materials": [
+    {
+      "name": "tripo_mat_8f8407ef",
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8999999761581421,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/GreenPlant/Textures/GreenPlant_Texture_00.jpg"
+      }
+    }
+  ]
+}

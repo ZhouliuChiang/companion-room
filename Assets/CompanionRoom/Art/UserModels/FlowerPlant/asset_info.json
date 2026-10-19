@@ -1,0 +1,29 @@
+{
+  "key": "FlowerPlant",
+  "label": "盆栽（花）",
+  "source": "C:\\Users\\PowerMan\\Documents\\Codex\\2026-10-15\\blender\\outputs\\盆栽(花).blend",
+  "fbx": "Assets/CompanionRoom/Art/UserModels/FlowerPlant/FlowerPlant.fbx",
+  "size": [
+    0.7318726181983948,
+    0.46627819538116455,
+    1.0
+  ],
+  "targetWidth": 0.32,
+  "meshes": 1,
+  "triangles": 993206,
+  "materials": [
+    {
+      "name": "tripo_mat_952478b7",
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8999999761581421,
+      "textures": {
+        "baseColor": "Assets/CompanionRoom/Art/UserModels/FlowerPlant/Textures/FlowerPlant_Texture_00.jpg"
+      }
+    }
+  ]
+}

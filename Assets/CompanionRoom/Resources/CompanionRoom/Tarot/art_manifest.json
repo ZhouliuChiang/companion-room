@@ -1,0 +1,476 @@
+{
+  "version": "pastel-78-v1",
+  "cardWidthMeters": 0.07,
+  "cardHeightMeters": 0.115,
+  "thicknessMeters": 0.0016,
+  "cards": [
+    {
+      "id": "fool",
+      "numeral": "0",
+      "english": "THE FOOL",
+      "symbol": "tiny cute traveler with stick bundle and small white dog at a simple cliff edge"
+    },
+    {
+      "id": "magician",
+      "numeral": "I",
+      "english": "THE MAGICIAN",
+      "symbol": "cute simple magician holding raised wand, small table with cup sword pentacle and wand"
+    },
+    {
+      "id": "high_priestess",
+      "numeral": "II",
+      "english": "THE HIGH PRIESTESS",
+      "symbol": "cute simple priestess with moon crown between two short pillars, holding scroll"
+    },
+    {
+      "id": "empress",
+      "numeral": "III",
+      "english": "THE EMPRESS",
+      "symbol": "cute crowned queen holding scepter with wheat sprigs and heart Venus shield"
+    },
+    {
+      "id": "emperor",
+      "numeral": "IV",
+      "english": "THE EMPEROR",
+      "symbol": "cute crowned bearded king seated on simple ram throne holding orb"
+    },
+    {
+      "id": "hierophant",
+      "numeral": "V",
+      "english": "THE HIEROPHANT",
+      "symbol": "cute priest with triple crown and staff, two crossed golden keys below"
+    },
+    {
+      "id": "lovers",
+      "numeral": "VI",
+      "english": "THE LOVERS",
+      "symbol": "two cute chibi people holding hands below one big pink heart and small angel wings"
+    },
+    {
+      "id": "chariot",
+      "numeral": "VII",
+      "english": "THE CHARIOT",
+      "symbol": "cute crowned rider in a small chariot with black and white sphinx pair"
+    },
+    {
+      "id": "strength",
+      "numeral": "VIII",
+      "english": "STRENGTH",
+      "symbol": "cute girl gently petting a tiny friendly lion, infinity symbol above"
+    },
+    {
+      "id": "hermit",
+      "numeral": "IX",
+      "english": "THE HERMIT",
+      "symbol": "cute hooded elderly hermit holding big glowing lantern and walking staff"
+    },
+    {
+      "id": "wheel_of_fortune",
+      "numeral": "X",
+      "english": "WHEEL OF FORTUNE",
+      "symbol": "one large golden eight-spoke wheel with tiny sphinx on top and two curved arrows"
+    },
+    {
+      "id": "justice",
+      "numeral": "XI",
+      "english": "JUSTICE",
+      "symbol": "cute crowned judge holding balanced golden scales and upright sword"
+    },
+    {
+      "id": "hanged_man",
+      "numeral": "XII",
+      "english": "THE HANGED MAN",
+      "symbol": "cute peaceful person upside-down hanging by one ankle from simple T tree, bent free leg and golden halo"
+    },
+    {
+      "id": "death",
+      "numeral": "XIII",
+      "english": "DEATH",
+      "symbol": "cute tiny skeleton knight on white pony holding black flag with white flower, no horror"
+    },
+    {
+      "id": "temperance",
+      "numeral": "XIV",
+      "english": "TEMPERANCE",
+      "symbol": "cute simple winged angel pouring water between TWO large cups"
+    },
+    {
+      "id": "devil",
+      "numeral": "XV",
+      "english": "THE DEVIL",
+      "symbol": "cute lavender horned winged imp with two loose chain loops below, tiny inverted star"
+    },
+    {
+      "id": "tower",
+      "numeral": "XVI",
+      "english": "THE TOWER",
+      "symbol": "one simple tower struck by big yellow lightning, crown roof tipped off, two small flame shapes"
+    },
+    {
+      "id": "star",
+      "numeral": "XVII",
+      "english": "THE STAR",
+      "symbol": "ONE very large soft pink five point star centered, two small four-point pink sparkles and few golden dots, as minimal as reference"
+    },
+    {
+      "id": "moon",
+      "numeral": "XVIII",
+      "english": "THE MOON",
+      "symbol": "ONE very large lavender crescent centered, three small lavender four-point sparkles and few golden dots, as minimal as reference"
+    },
+    {
+      "id": "sun",
+      "numeral": "XIX",
+      "english": "THE SUN",
+      "symbol": "ONE very large butter yellow sun disk with ten simple rounded triangular rays, two tiny golden sparkles and few dots, as minimal as reference"
+    },
+    {
+      "id": "judgement",
+      "numeral": "XX",
+      "english": "JUDGEMENT",
+      "symbol": "one cute chibi angel blowing a big golden trumpet with white red-cross flag, three tiny raised hands below"
+    },
+    {
+      "id": "world",
+      "numeral": "XXI",
+      "english": "THE WORLD",
+      "symbol": "one cute simple dancing chibi person inside oval sage laurel wreath with two pink ribbon ties, holding two short wands"
+    },
+    {
+      "id": "ace_of_wands",
+      "numeral": "1",
+      "english": "ACE OF WANDS",
+      "symbol": "EXACTLY 1 separate large wooden wand with two tiny green leaves icons, carefully arranged in a clean balanced pip-card layout, all 1 clearly visible and countable, do not add any other suit icons. one large central emblem emerging from a tiny cloud. Use warm peach and sage for central illustration."
+    },
+    {
+      "id": "two_of_wands",
+      "numeral": "2",
+      "english": "TWO OF WANDS",
+      "symbol": "EXACTLY 2 separate large wooden wand with two tiny green leaves icons, carefully arranged in a clean balanced pip-card layout, all 2 clearly visible and countable, do not add any other suit icons. . Use warm peach and sage for central illustration."
+    },
+    {
+      "id": "three_of_wands",
+      "numeral": "3",
+      "english": "THREE OF WANDS",
+      "symbol": "EXACTLY 3 separate large wooden wand with two tiny green leaves icons, carefully arranged in a clean balanced pip-card layout, all 3 clearly visible and countable, do not add any other suit icons. . Use warm peach and sage for central illustration."
+    },
+    {
+      "id": "four_of_wands",
+      "numeral": "4",
+      "english": "FOUR OF WANDS",
+      "symbol": "EXACTLY 4 separate large wooden wand with two tiny green leaves icons, carefully arranged in a clean balanced pip-card layout, all 4 clearly visible and countable, do not add any other suit icons. . Use warm peach and sage for central illustration."
+    },
+    {
+      "id": "five_of_wands",
+      "numeral": "5",
+      "english": "FIVE OF WANDS",
+      "symbol": "EXACTLY 5 separate large wooden wand with two tiny green leaves icons, carefully arranged in a clean balanced pip-card layout, all 5 clearly visible and countable, do not add any other suit icons. . Use warm peach and sage for central illustration."
+    },
+    {
+      "id": "six_of_wands",
+      "numeral": "6",
+      "english": "SIX OF WANDS",
+      "symbol": "EXACTLY 6 separate large wooden wand with two tiny green leaves icons, carefully arranged in a clean balanced pip-card layout, all 6 clearly visible and countable, do not add any other suit icons. . Use warm peach and sage for central illustration."
+    },
+    {
+      "id": "seven_of_wands",
+      "numeral": "7",
+      "english": "SEVEN OF WANDS",
+      "symbol": "EXACTLY 7 separate large wooden wand with two tiny green leaves icons, carefully arranged in a clean balanced pip-card layout, all 7 clearly visible and countable, do not add any other suit icons. . Use warm peach and sage for central illustration."
+    },
+    {
+      "id": "eight_of_wands",
+      "numeral": "8",
+      "english": "EIGHT OF WANDS",
+      "symbol": "EXACTLY 8 separate large wooden wand with two tiny green leaves icons, carefully arranged in a clean balanced pip-card layout, all 8 clearly visible and countable, do not add any other suit icons. . Use warm peach and sage for central illustration."
+    },
+    {
+      "id": "nine_of_wands",
+      "numeral": "9",
+      "english": "NINE OF WANDS",
+      "symbol": "EXACTLY 9 separate large wooden wand with two tiny green leaves icons, carefully arranged in a clean balanced pip-card layout, all 9 clearly visible and countable, do not add any other suit icons. . Use warm peach and sage for central illustration."
+    },
+    {
+      "id": "ten_of_wands",
+      "numeral": "10",
+      "english": "TEN OF WANDS",
+      "symbol": "EXACTLY 10 separate large wooden wand with two tiny green leaves icons, carefully arranged in a clean balanced pip-card layout, all 10 clearly visible and countable, do not add any other suit icons. . Use warm peach and sage for central illustration."
+    },
+    {
+      "id": "page_of_wands",
+      "numeral": "PAGE",
+      "english": "PAGE OF WANDS",
+      "symbol": "one tiny flat chibi PAGE, young apprentice standing holding ONE wooden wand with two tiny green leaves, simple short tunic and small feather cap. Use warm peach and sage for central illustration."
+    },
+    {
+      "id": "knight_of_wands",
+      "numeral": "KNIGHT",
+      "english": "KNIGHT OF WANDS",
+      "symbol": "one flat chibi KNIGHT wearing simple armor riding small pony and holding ONE wooden wand with two tiny green leaves. Use warm peach and sage for central illustration."
+    },
+    {
+      "id": "queen_of_wands",
+      "numeral": "QUEEN",
+      "english": "QUEEN OF WANDS",
+      "symbol": "one flat chibi QUEEN with crown seated on simple throne holding ONE wooden wand with two tiny green leaves, feminine long hair. Use warm peach and sage for central illustration."
+    },
+    {
+      "id": "king_of_wands",
+      "numeral": "KING",
+      "english": "KING OF WANDS",
+      "symbol": "one flat chibi KING with crown and short beard seated on simple throne holding ONE wooden wand with two tiny green leaves. Use warm peach and sage for central illustration."
+    },
+    {
+      "id": "ace_of_cups",
+      "numeral": "1",
+      "english": "ACE OF CUPS",
+      "symbol": "EXACTLY 1 separate large golden chalice cup icons, carefully arranged in a clean balanced pip-card layout, all 1 clearly visible and countable, do not add any other suit icons. one large central emblem emerging from a tiny cloud. Use pastel lavender and blush for central illustration."
+    },
+    {
+      "id": "two_of_cups",
+      "numeral": "2",
+      "english": "TWO OF CUPS",
+      "symbol": "EXACTLY 2 separate large golden chalice cup icons, carefully arranged in a clean balanced pip-card layout, all 2 clearly visible and countable, do not add any other suit icons. . Use pastel lavender and blush for central illustration."
+    },
+    {
+      "id": "three_of_cups",
+      "numeral": "3",
+      "english": "THREE OF CUPS",
+      "symbol": "EXACTLY 3 separate large golden chalice cup icons, carefully arranged in a clean balanced pip-card layout, all 3 clearly visible and countable, do not add any other suit icons. . Use pastel lavender and blush for central illustration."
+    },
+    {
+      "id": "four_of_cups",
+      "numeral": "4",
+      "english": "FOUR OF CUPS",
+      "symbol": "EXACTLY 4 separate large golden chalice cup icons, carefully arranged in a clean balanced pip-card layout, all 4 clearly visible and countable, do not add any other suit icons. . Use pastel lavender and blush for central illustration."
+    },
+    {
+      "id": "five_of_cups",
+      "numeral": "5",
+      "english": "FIVE OF CUPS",
+      "symbol": "EXACTLY 5 separate large golden chalice cup icons, carefully arranged in a clean balanced pip-card layout, all 5 clearly visible and countable, do not add any other suit icons. . Use pastel lavender and blush for central illustration."
+    },
+    {
+      "id": "six_of_cups",
+      "numeral": "6",
+      "english": "SIX OF CUPS",
+      "symbol": "EXACTLY 6 separate large golden chalice cup icons, carefully arranged in a clean balanced pip-card layout, all 6 clearly visible and countable, do not add any other suit icons. . Use pastel lavender and blush for central illustration."
+    },
+    {
+      "id": "seven_of_cups",
+      "numeral": "7",
+      "english": "SEVEN OF CUPS",
+      "symbol": "EXACTLY 7 separate large golden chalice cup icons, carefully arranged in a clean balanced pip-card layout, all 7 clearly visible and countable, do not add any other suit icons. . Use pastel lavender and blush for central illustration."
+    },
+    {
+      "id": "eight_of_cups",
+      "numeral": "8",
+      "english": "EIGHT OF CUPS",
+      "symbol": "EXACTLY 8 separate large golden chalice cup icons, carefully arranged in a clean balanced pip-card layout, all 8 clearly visible and countable, do not add any other suit icons. . Use pastel lavender and blush for central illustration."
+    },
+    {
+      "id": "nine_of_cups",
+      "numeral": "9",
+      "english": "NINE OF CUPS",
+      "symbol": "EXACTLY 9 separate large golden chalice cup icons, carefully arranged in a clean balanced pip-card layout, all 9 clearly visible and countable, do not add any other suit icons. . Use pastel lavender and blush for central illustration."
+    },
+    {
+      "id": "ten_of_cups",
+      "numeral": "10",
+      "english": "TEN OF CUPS",
+      "symbol": "EXACTLY 10 separate large golden chalice cup icons, carefully arranged in a clean balanced pip-card layout, all 10 clearly visible and countable, do not add any other suit icons. . Use pastel lavender and blush for central illustration."
+    },
+    {
+      "id": "page_of_cups",
+      "numeral": "PAGE",
+      "english": "PAGE OF CUPS",
+      "symbol": "one tiny flat chibi PAGE, young apprentice standing holding ONE golden chalice cup, simple short tunic and small feather cap. Use pastel lavender and blush for central illustration."
+    },
+    {
+      "id": "knight_of_cups",
+      "numeral": "KNIGHT",
+      "english": "KNIGHT OF CUPS",
+      "symbol": "one flat chibi KNIGHT wearing simple armor riding small pony and holding ONE golden chalice cup. Use pastel lavender and blush for central illustration."
+    },
+    {
+      "id": "queen_of_cups",
+      "numeral": "QUEEN",
+      "english": "QUEEN OF CUPS",
+      "symbol": "one flat chibi QUEEN with crown seated on simple throne holding ONE golden chalice cup, feminine long hair. Use pastel lavender and blush for central illustration."
+    },
+    {
+      "id": "king_of_cups",
+      "numeral": "KING",
+      "english": "KING OF CUPS",
+      "symbol": "one flat chibi KING with crown and short beard seated on simple throne holding ONE golden chalice cup. Use pastel lavender and blush for central illustration."
+    },
+    {
+      "id": "ace_of_swords",
+      "numeral": "1",
+      "english": "ACE OF SWORDS",
+      "symbol": "EXACTLY 1 separate large silver straight sword with golden hilt icons, carefully arranged in a clean balanced pip-card layout, all 1 clearly visible and countable, do not add any other suit icons. one large central emblem emerging from a tiny cloud. Use pastel powder blue and lavender for central illustration."
+    },
+    {
+      "id": "two_of_swords",
+      "numeral": "2",
+      "english": "TWO OF SWORDS",
+      "symbol": "EXACTLY 2 separate large silver straight sword with golden hilt icons, carefully arranged in a clean balanced pip-card layout, all 2 clearly visible and countable, do not add any other suit icons. . Use pastel powder blue and lavender for central illustration."
+    },
+    {
+      "id": "three_of_swords",
+      "numeral": "3",
+      "english": "THREE OF SWORDS",
+      "symbol": "EXACTLY 3 separate large silver straight sword with golden hilt icons, carefully arranged in a clean balanced pip-card layout, all 3 clearly visible and countable, do not add any other suit icons. . Use pastel powder blue and lavender for central illustration."
+    },
+    {
+      "id": "four_of_swords",
+      "numeral": "4",
+      "english": "FOUR OF SWORDS",
+      "symbol": "EXACTLY 4 separate large silver straight sword with golden hilt icons, carefully arranged in a clean balanced pip-card layout, all 4 clearly visible and countable, do not add any other suit icons. . Use pastel powder blue and lavender for central illustration."
+    },
+    {
+      "id": "five_of_swords",
+      "numeral": "5",
+      "english": "FIVE OF SWORDS",
+      "symbol": "EXACTLY 5 separate large silver straight sword with golden hilt icons, carefully arranged in a clean balanced pip-card layout, all 5 clearly visible and countable, do not add any other suit icons. . Use pastel powder blue and lavender for central illustration."
+    },
+    {
+      "id": "six_of_swords",
+      "numeral": "6",
+      "english": "SIX OF SWORDS",
+      "symbol": "EXACTLY 6 separate large silver straight sword with golden hilt icons, carefully arranged in a clean balanced pip-card layout, all 6 clearly visible and countable, do not add any other suit icons. . Use pastel powder blue and lavender for central illustration."
+    },
+    {
+      "id": "seven_of_swords",
+      "numeral": "7",
+      "english": "SEVEN OF SWORDS",
+      "symbol": "EXACTLY 7 separate large silver straight sword with golden hilt icons, carefully arranged in a clean balanced pip-card layout, all 7 clearly visible and countable, do not add any other suit icons. . Use pastel powder blue and lavender for central illustration."
+    },
+    {
+      "id": "eight_of_swords",
+      "numeral": "8",
+      "english": "EIGHT OF SWORDS",
+      "symbol": "EXACTLY 8 separate large silver straight sword with golden hilt icons, carefully arranged in a clean balanced pip-card layout, all 8 clearly visible and countable, do not add any other suit icons. . Use pastel powder blue and lavender for central illustration."
+    },
+    {
+      "id": "nine_of_swords",
+      "numeral": "9",
+      "english": "NINE OF SWORDS",
+      "symbol": "EXACTLY 9 separate large silver straight sword with golden hilt icons, carefully arranged in a clean balanced pip-card layout, all 9 clearly visible and countable, do not add any other suit icons. . Use pastel powder blue and lavender for central illustration."
+    },
+    {
+      "id": "ten_of_swords",
+      "numeral": "10",
+      "english": "TEN OF SWORDS",
+      "symbol": "EXACTLY 10 separate large silver straight sword with golden hilt icons, carefully arranged in a clean balanced pip-card layout, all 10 clearly visible and countable, do not add any other suit icons. . Use pastel powder blue and lavender for central illustration."
+    },
+    {
+      "id": "page_of_swords",
+      "numeral": "PAGE",
+      "english": "PAGE OF SWORDS",
+      "symbol": "one tiny flat chibi PAGE, young apprentice standing holding ONE silver straight sword with golden hilt, simple short tunic and small feather cap. Use pastel powder blue and lavender for central illustration."
+    },
+    {
+      "id": "knight_of_swords",
+      "numeral": "KNIGHT",
+      "english": "KNIGHT OF SWORDS",
+      "symbol": "one flat chibi KNIGHT wearing simple armor riding small pony and holding ONE silver straight sword with golden hilt. Use pastel powder blue and lavender for central illustration."
+    },
+    {
+      "id": "queen_of_swords",
+      "numeral": "QUEEN",
+      "english": "QUEEN OF SWORDS",
+      "symbol": "one flat chibi QUEEN with crown seated on simple throne holding ONE silver straight sword with golden hilt, feminine long hair. Use pastel powder blue and lavender for central illustration."
+    },
+    {
+      "id": "king_of_swords",
+      "numeral": "KING",
+      "english": "KING OF SWORDS",
+      "symbol": "one flat chibi KING with crown and short beard seated on simple throne holding ONE silver straight sword with golden hilt. Use pastel powder blue and lavender for central illustration."
+    },
+    {
+      "id": "ace_of_pentacles",
+      "numeral": "1",
+      "english": "ACE OF PENTACLES",
+      "symbol": "EXACTLY 1 separate large golden coin containing clearly visible five-point pentagram icons, carefully arranged in a clean balanced pip-card layout, all 1 clearly visible and countable, do not add any other suit icons. one large central emblem emerging from a tiny cloud. Use butter gold and sage for central illustration."
+    },
+    {
+      "id": "two_of_pentacles",
+      "numeral": "2",
+      "english": "TWO OF PENTACLES",
+      "symbol": "EXACTLY 2 separate large golden coin containing clearly visible five-point pentagram icons, carefully arranged in a clean balanced pip-card layout, all 2 clearly visible and countable, do not add any other suit icons. . Use butter gold and sage for central illustration."
+    },
+    {
+      "id": "three_of_pentacles",
+      "numeral": "3",
+      "english": "THREE OF PENTACLES",
+      "symbol": "EXACTLY 3 separate large golden coin containing clearly visible five-point pentagram icons, carefully arranged in a clean balanced pip-card layout, all 3 clearly visible and countable, do not add any other suit icons. . Use butter gold and sage for central illustration."
+    },
+    {
+      "id": "four_of_pentacles",
+      "numeral": "4",
+      "english": "FOUR OF PENTACLES",
+      "symbol": "EXACTLY 4 separate large golden coin containing clearly visible five-point pentagram icons, carefully arranged in a clean balanced pip-card layout, all 4 clearly visible and countable, do not add any other suit icons. . Use butter gold and sage for central illustration."
+    },
+    {
+      "id": "five_of_pentacles",
+      "numeral": "5",
+      "english": "FIVE OF PENTACLES",
+      "symbol": "EXACTLY 5 separate large golden coin containing clearly visible five-point pentagram icons, carefully arranged in a clean balanced pip-card layout, all 5 clearly visible and countable, do not add any other suit icons. . Use butter gold and sage for central illustration."
+    },
+    {
+      "id": "six_of_pentacles",
+      "numeral": "6",
+      "english": "SIX OF PENTACLES",
+      "symbol": "EXACTLY 6 separate large golden coin containing clearly visible five-point pentagram icons, carefully arranged in a clean balanced pip-card layout, all 6 clearly visible and countable, do not add any other suit icons. . Use butter gold and sage for central illustration."
+    },
+    {
+      "id": "seven_of_pentacles",
+      "numeral": "7",
+      "english": "SEVEN OF PENTACLES",
+      "symbol": "EXACTLY 7 separate large golden coin containing clearly visible five-point pentagram icons, carefully arranged in a clean balanced pip-card layout, all 7 clearly visible and countable, do not add any other suit icons. . Use butter gold and sage for central illustration."
+    },
+    {
+      "id": "eight_of_pentacles",
+      "numeral": "8",
+      "english": "EIGHT OF PENTACLES",
+      "symbol": "EXACTLY 8 separate large golden coin containing clearly visible five-point pentagram icons, carefully arranged in a clean balanced pip-card layout, all 8 clearly visible and countable, do not add any other suit icons. . Use butter gold and sage for central illustration."
+    },
+    {
+      "id": "nine_of_pentacles",
+      "numeral": "9",
+      "english": "NINE OF PENTACLES",
+      "symbol": "EXACTLY 9 separate large golden coin containing clearly visible five-point pentagram icons, carefully arranged in a clean balanced pip-card layout, all 9 clearly visible and countable, do not add any other suit icons. . Use butter gold and sage for central illustration."
+    },
+    {
+      "id": "ten_of_pentacles",
+      "numeral": "10",
+      "english": "TEN OF PENTACLES",
+      "symbol": "EXACTLY 10 separate large golden coin containing clearly visible five-point pentagram icons, carefully arranged in a clean balanced pip-card layout, all 10 clearly visible and countable, do not add any other suit icons. . Use butter gold and sage for central illustration."
+    },
+    {
+      "id": "page_of_pentacles",
+      "numeral": "PAGE",
+      "english": "PAGE OF PENTACLES",
+      "symbol": "one tiny flat chibi PAGE, young apprentice standing holding ONE golden coin containing clearly visible five-point pentagram, simple short tunic and small feather cap. Use butter gold and sage for central illustration."
+    },
+    {
+      "id": "knight_of_pentacles",
+      "numeral": "KNIGHT",
+      "english": "KNIGHT OF PENTACLES",
+      "symbol": "one flat chibi KNIGHT wearing simple armor riding small pony and holding ONE golden coin containing clearly visible five-point pentagram. Use butter gold and sage for central illustration."
+    },
+    {
+      "id": "queen_of_pentacles",
+      "numeral": "QUEEN",
+      "english": "QUEEN OF PENTACLES",
+      "symbol": "one flat chibi QUEEN with crown seated on simple throne holding ONE golden coin containing clearly visible five-point pentagram, feminine long hair. Use butter gold and sage for central illustration."
+    },
+    {
+      "id": "king_of_pentacles",
+      "numeral": "KING",
+      "english": "KING OF PENTACLES",
+      "symbol": "one flat chibi KING with crown and short beard seated on simple throne holding ONE golden coin containing clearly visible five-point pentagram. Use butter gold and sage for central illustration."
+    }
+  ]
+}
